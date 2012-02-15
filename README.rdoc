@@ -1,0 +1,4 @@
+This is all that is required to get new relic working on a heroku instance created with a cedar stack and the new relic addon installed
+	
+
+
